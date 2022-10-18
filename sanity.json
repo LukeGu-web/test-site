@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "coral-gnu"
+    "name": "test-site"
   },
   "api": {
     "projectId": "60bnxvnv",
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
